@@ -18,8 +18,8 @@ A streamlined, web-based reconnaissance tool designed for modern security assess
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/aegis-scanner.git](https://github.com/YOUR_USERNAME/aegis-scanner.git)
-    cd aegis-scanner
+    git clone https://github.com/mindfliphacks/aegis-v16.git
+    cd aegis-v16
     ```
 
 2.  **Install Dependencies**
